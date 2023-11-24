@@ -11,7 +11,7 @@ const fs = require("fs");
 // Initialization
 
 var config = {
-    brand: "Ceaser",
+    brand: "Ceaser ",
 
     webhook: "REPLACE_ME",
 
